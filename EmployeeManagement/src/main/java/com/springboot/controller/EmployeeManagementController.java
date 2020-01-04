@@ -34,7 +34,7 @@ public class EmployeeManagementController {
 	public List<Employee> createEmployee()
 	{
 		Employee emp1 = new Employee();
-		emp1.setName("emp12");
+		emp1.setName("emp123");
 		emp1.setDesignation("manager");
 		emp1.setEmpId("1");
 		emp1.setSalary(3000);
